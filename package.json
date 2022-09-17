@@ -1,0 +1,22 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bzkrtayse/amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bzkrtayse/amazon/issues"
+  },
+  "homepage": "https://github.com/Bzkrtayse/amazon#readme",
+  "dependencies": {
+    "react-router-dom": "^6.4.0"
+  }
+}
